@@ -17,7 +17,7 @@ pipeline {
 
         stage('Package') {
             steps {
-                sh 'echo "Build executed on $(date)" > build-info.txt'
+                bat 'echo "Build executed on $(date)" > build-info.txt'
             }
         }
     }
