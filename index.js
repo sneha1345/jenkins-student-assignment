@@ -1,1 +1,1 @@
-console.log("Hello World from Jenkins CI/CD Pipeline");
+console.log("Testing automatic Jenkins trigger");
