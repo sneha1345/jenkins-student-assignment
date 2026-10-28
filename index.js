@@ -1,1 +1,1 @@
-console.log("Hello World from Jenkins CI/CD Pipeline - Updated!");
+console.log("Hello World from Jenkins CI/CD Pipeline");
